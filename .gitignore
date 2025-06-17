@@ -1,0 +1,37 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Virtual machine files
+*.vmx
+*.vmdk
+*.nvram
+*.vmsd
+*.vmem
+*.log
+*.iso
+
+# PowerShell artifacts
+*.ps1~
+*.ps1.xml
+
+# Screenshot artifacts
+*.tmp
+*.bak
+*.old
+
+# Node modules (혹시 웹 프로젝트 추가할 경우 대비)
+node_modules/
+
+# OS swap or temp files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# VSCode
+.vscode/
